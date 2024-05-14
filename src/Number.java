@@ -1,5 +1,5 @@
 public class Number {
-    double valor;
+    private double valor;
     public Number(double valor) {
         this.valor = valor;
     }
